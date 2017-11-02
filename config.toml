@@ -1,4 +1,4 @@
-baseurl = "https://money-changer-keys-30883.netlify.com/"
+baseurl = "https://example.com/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -10,7 +10,6 @@ author = "Alexis Tacnet"
 title = "Cocoa Enhanced"
 disqusshortname = ""
 pluralizelisttitles = false
-defaultExtension = "html"
 
 [permalinks]
 blog = "blog/:slug/"
